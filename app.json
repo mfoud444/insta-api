@@ -1,0 +1,23 @@
+{
+   "name": "instagrapi-rest",
+   "description": "Deploy a Instagrapi RESTful API service (Instagram Private API)",
+   "keywords": [
+      "instagram",
+      "instagram-private-api",
+      "instagram-api",
+      "instagram-bot",
+      "instagrapi",
+      "instagrapi-bot",
+      "instagrapi-rest",
+      "python",
+      "fastapi",
+      "rest",
+      "instagrapi",
+      "private",
+      "api"
+   ],
+   "website": "https://github.com/subzeroid/instagrapi-rest",
+   "repository": "https://github.com/subzeroid/instagrapi-rest",
+   "success_url": "/docs",
+   "logo": "https://github.com/subzeroid/instagrapi-rest/raw/main/logo.png"
+}
